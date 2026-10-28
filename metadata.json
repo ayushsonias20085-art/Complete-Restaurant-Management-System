@@ -1,0 +1,6 @@
+{
+  "name": "Savoria Restaurant Management System",
+  "description": "Complete enterprise Restaurant Management System featuring real-time Order Management, Recipe-based Inventory Control, POS Billing, Kitchen Display System, and Sales Analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
